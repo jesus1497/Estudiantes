@@ -8,3 +8,6 @@ C:\Users\jmag_\source\repos\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj
 C:\Users\jmag_\source\repos\Estudiantes\Estudiantes\obj\Debug\Estudiantes.exe
 C:\Users\jmag_\source\repos\Estudiantes\Estudiantes\obj\Debug\Estudiantes.pdb
 C:\Users\jmag_\source\repos\Estudiantes\Estudiantes\obj\Debug\Estudiantes.Form1.resources
+C:\Users\jmag_\source\repos\Estudiantes\Estudiantes\bin\Debug\Logica.dll
+C:\Users\jmag_\source\repos\Estudiantes\Estudiantes\bin\Debug\Logica.pdb
+C:\Users\jmag_\source\repos\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.CopyComplete

@@ -1,0 +1,5 @@
+C:\Users\jmag_\source\repos\Estudiantes\Logica\bin\Debug\Logica.dll
+C:\Users\jmag_\source\repos\Estudiantes\Logica\bin\Debug\Logica.pdb
+C:\Users\jmag_\source\repos\Estudiantes\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\jmag_\source\repos\Estudiantes\Logica\obj\Debug\Logica.dll
+C:\Users\jmag_\source\repos\Estudiantes\Logica\obj\Debug\Logica.pdb
