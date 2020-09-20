@@ -1,0 +1,10 @@
+C:\Users\jmag_\source\repos\Estudiantes\Estudiantes\bin\Debug\Estudiantes.exe.config
+C:\Users\jmag_\source\repos\Estudiantes\Estudiantes\bin\Debug\Estudiantes.exe
+C:\Users\jmag_\source\repos\Estudiantes\Estudiantes\bin\Debug\Estudiantes.pdb
+C:\Users\jmag_\source\repos\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csprojAssemblyReference.cache
+C:\Users\jmag_\source\repos\Estudiantes\Estudiantes\obj\Debug\Estudiantes.Properties.Resources.resources
+C:\Users\jmag_\source\repos\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.GenerateResource.cache
+C:\Users\jmag_\source\repos\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\jmag_\source\repos\Estudiantes\Estudiantes\obj\Debug\Estudiantes.exe
+C:\Users\jmag_\source\repos\Estudiantes\Estudiantes\obj\Debug\Estudiantes.pdb
+C:\Users\jmag_\source\repos\Estudiantes\Estudiantes\obj\Debug\Estudiantes.Form1.resources
