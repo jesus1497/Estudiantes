@@ -1,0 +1,2 @@
+Proyecto en C# del curso https://www.udemy.com/course/curso-de-c-sharp-net-core-desde-cero/learn/lecture/15709428#questions
+el cual consiste hacer un aplicacion en escritorio usando una arquitectura de 3 capas
